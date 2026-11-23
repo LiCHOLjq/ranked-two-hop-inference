@@ -1,0 +1,22 @@
+{
+  "python": "3.12.3",
+  "seed": 19,
+  "matrices": 11,
+  "cutoffs": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "two_hop_checks": {
+    "top_k_outputs": 176,
+    "outputs_at_zero_prefix_mass": 12,
+    "unchanged_old_ratios": 55,
+    "new_entry_identities": 150
+  },
+  "three_hop": {
+    "worlds": 32,
+    "old_ratio": "8/7",
+    "new_ratio": "28/25"
+  }
+}

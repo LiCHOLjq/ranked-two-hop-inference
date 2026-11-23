@@ -1,0 +1,57 @@
+{
+  "verified_input_hashes": 325,
+  "distinct_serialized_inputs": 323,
+  "checked_paired_speedups": 421,
+  "probability_vectors_independently_compared": 675,
+  "recorded_timing_rows": 4715,
+  "archived_timing_rows": 433,
+  "replay_flipped_case_indices": [],
+  "confusion": {
+    "campaign": "All",
+    "stratum": "All",
+    "cases": 325,
+    "matched_sparse_win": 267,
+    "matched_sparse_loss": 20,
+    "matched_sparse_tie": 0,
+    "matched_tie_win": 17,
+    "matched_tie_loss": 21,
+    "matched_tie_tie": 0,
+    "matched_control_win": 0,
+    "matched_control_loss": 0,
+    "matched_control_tie": 0,
+    "matched_binary_correct": 288,
+    "full_sparse_win": 257,
+    "full_sparse_loss": 30,
+    "full_sparse_tie": 0,
+    "full_tie_win": 7,
+    "full_tie_loss": 31,
+    "full_tie_tie": 0,
+    "full_control_win": 0,
+    "full_control_loss": 0,
+    "full_control_tie": 0,
+    "full_binary_correct": 288
+  },
+  "partition_winners": {
+    "1": {
+      "recompute": 3
+    },
+    "2": {
+      "component": 3
+    },
+    "4": {
+      "component": 3
+    },
+    "8": {
+      "component": 3
+    },
+    "16": {
+      "component": 3
+    }
+  },
+  "degree_descriptive_fit": {
+    "n": 21,
+    "intercept": 27.958035308866975,
+    "slope": -22.96765956971883,
+    "r_squared": 0.9807738413681834
+  }
+}

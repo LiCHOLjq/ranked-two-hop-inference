@@ -1,0 +1,60 @@
+[
+  {
+    "scale": "small",
+    "dataset": "cora",
+    "total": 5,
+    "completed": 5,
+    "exit_counts": {
+      "ok": 5
+    },
+    "sdd_setup_ms": 37.58261500024673,
+    "sdd_evaluate_ms": 0.06111078963391353,
+    "sparse_us": 2.0628944925742574,
+    "sdd_parse_ms": 0.06830700021964731,
+    "sparse_parse_ms": 0.047299999999999995,
+    "max_abs_error": 5.551115123125783e-17,
+    "coordinates": 111
+  },
+  {
+    "scale": "small",
+    "dataset": "ogbn_arxiv_20k",
+    "total": 5,
+    "completed": 5,
+    "exit_counts": {
+      "ok": 5
+    },
+    "sdd_setup_ms": 69.42013800016866,
+    "sdd_evaluate_ms": 0.08738715720488972,
+    "sparse_us": 2.894690882778582,
+    "sdd_parse_ms": 0.07313499963856884,
+    "sparse_parse_ms": 0.05867,
+    "max_abs_error": 1.1102230246251565e-16,
+    "coordinates": 120
+  },
+  {
+    "scale": "large",
+    "dataset": "cora",
+    "total": 5,
+    "completed": 4,
+    "exit_counts": {
+      "ok": 4,
+      "time_limit": 1
+    },
+    "sdd_setup_ms": 473.8451180000993,
+    "sdd_evaluate_ms": 1.383047041915028,
+    "sparse_us": 4.597470512820513,
+    "sdd_parse_ms": 0.13666500012732286,
+    "sparse_parse_ms": 0.108741,
+    "max_abs_error": 5.551115123125783e-17,
+    "coordinates": 209
+  },
+  {
+    "scale": "large",
+    "dataset": "ogbn_arxiv_20k",
+    "total": 5,
+    "completed": 0,
+    "exit_counts": {
+      "time_limit": 5
+    }
+  }
+]

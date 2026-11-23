@@ -1,0 +1,9 @@
+dataset,subset,cases,direct_minima,W_median,L_median,E_median,Q_median,direct_us_median
+cora,all,25,7,4,20,21,60,3.072547722494744
+cora,direct fastest,7,7,4,5,9,10,0.497477103698729
+cora,L <= 11,8,7,4.0,6.5,9.0,11.5,0.5416503708300323
+cora,L = 24,11,0,4,24,25,163,5.890043834914125
+ogbn_arxiv_20k,all,25,0,9,24,30,229,9.54895369928401
+ogbn_arxiv_20k,direct fastest,0,0,,,,,
+ogbn_arxiv_20k,L <= 11,0,0,,,,,
+ogbn_arxiv_20k,L = 24,25,0,9,24,30,229,9.54895369928401

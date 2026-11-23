@@ -1,0 +1,39 @@
+{
+  "start_utc": "2026-11-23T07:15:39.953068+00:00",
+  "cpu": 0,
+  "cpu_name": "Intel(R) Xeon(R) w9-3475X",
+  "python": "3.12.3",
+  "pysdd": "1.0.6",
+  "kernel_sha256": "c853896321a0009998e5bbb36ca73608723be72688d453c6414182cadb15b8cf",
+  "script_sha256": {
+    "sdd_vector.py": "f60d9c65d926886c993936ba4ceaf699bff320cfce42d9076ea56492309d806b",
+    "benchmark.py": "17f1eeaf18c966bfd8fe16d1f90ad423896af92da3241f0389b3c0dfa5f398f9"
+  },
+  "case_index_sha256": "60b826fe85484651a4096858dbbbd3b2689cf68ff32c0ad3ecd183ed937d621b",
+  "time_limit_s": 12,
+  "sampled_rss_limit_kib": 786432,
+  "rss_poll_s": 0.01,
+  "inputs": [
+    225,
+    230,
+    235,
+    240,
+    245,
+    250,
+    255,
+    260,
+    265,
+    270,
+    275,
+    280,
+    285,
+    290,
+    295,
+    300,
+    305,
+    310,
+    315,
+    320
+  ],
+  "end_utc": "2026-11-23T07:16:29.978079+00:00"
+}

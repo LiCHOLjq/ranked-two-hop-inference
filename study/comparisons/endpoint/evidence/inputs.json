@@ -1,0 +1,5330 @@
+[
+  {
+    "case": 225,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 6,
+    "n": 24,
+    "edges": 25,
+    "input": "225_fresh_5205_cora_0.txt",
+    "sha256": "33d0e18c24d8639a7861edf4969d59d0b247edbf0c7a5353462a5f9ebe78b920",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 225,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 6,
+    "n": 24,
+    "edges": 25,
+    "input": "225_dose1.txt",
+    "sha256": "33d0e18c24d8639a7861edf4969d59d0b247edbf0c7a5353462a5f9ebe78b920",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 225,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 3,
+    "w": 6,
+    "n": 24,
+    "edges": 25,
+    "input": "225_dose5.txt",
+    "sha256": "72330ad72b1cf0ede64a68b7767ac61184f3b4081af083c1cf7c57a017e35930",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 225,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 8,
+    "w": 6,
+    "n": 24,
+    "edges": 25,
+    "input": "225_dose20.txt",
+    "sha256": "ec5ab1fafba6eb3e04a199b6b2967f9e867421cf2841d9a35bf8dc87333f1abf",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 226,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 4,
+    "n": 2,
+    "edges": 4,
+    "input": "226_fresh_5205_cora_1.txt",
+    "sha256": "dd3a9fe101400aca3dbd6a73a8e215c0f415cb64c04933d104d7ff724f3a4615",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 226,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 4,
+    "n": 2,
+    "edges": 4,
+    "input": "226_dose1.txt",
+    "sha256": "dd3a9fe101400aca3dbd6a73a8e215c0f415cb64c04933d104d7ff724f3a4615",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 226,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 0,
+    "w": 4,
+    "n": 2,
+    "edges": 4,
+    "input": "226_dose5.txt",
+    "sha256": "dd3a9fe101400aca3dbd6a73a8e215c0f415cb64c04933d104d7ff724f3a4615",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 226,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 0,
+    "w": 4,
+    "n": 2,
+    "edges": 4,
+    "input": "226_dose20.txt",
+    "sha256": "dd3a9fe101400aca3dbd6a73a8e215c0f415cb64c04933d104d7ff724f3a4615",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 227,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 3,
+    "n": 8,
+    "edges": 9,
+    "input": "227_fresh_5205_cora_2.txt",
+    "sha256": "e1ff9fc09065c1bec8432989ad8e5f9790e6196105306e62fc9e618b8e6ee7eb",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 227,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 1,
+    "w": 3,
+    "n": 8,
+    "edges": 9,
+    "input": "227_dose1.txt",
+    "sha256": "326c453671b9cf14285635642137890afe46bcadbaaa37ad2306984dcb383b85",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 227,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 2,
+    "w": 3,
+    "n": 8,
+    "edges": 9,
+    "input": "227_dose5.txt",
+    "sha256": "f237806bbdcc6cb7a666460c3f8533e43c6c1e9efb6a6ac0c303788bb82f7e7a",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 227,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 2,
+    "w": 3,
+    "n": 8,
+    "edges": 9,
+    "input": "227_dose20.txt",
+    "sha256": "f237806bbdcc6cb7a666460c3f8533e43c6c1e9efb6a6ac0c303788bb82f7e7a",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 228,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 4,
+    "n": 24,
+    "edges": 24,
+    "input": "228_fresh_5205_cora_3.txt",
+    "sha256": "b6f6e8bc5cdf3470e23869682b294938998ed716380702094294d1d2c6296737",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 228,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 1,
+    "w": 4,
+    "n": 24,
+    "edges": 24,
+    "input": "228_dose1.txt",
+    "sha256": "f5eb3986af59068f229ba12eedd4a0b3120e9a23d03889206286d17db0260a80",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 228,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 2,
+    "w": 4,
+    "n": 24,
+    "edges": 24,
+    "input": "228_dose5.txt",
+    "sha256": "8b54da9b067abc3aa442d5b237b096f09aabdceadcd929017fa4bf2246c69e0b",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 228,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 7,
+    "w": 4,
+    "n": 24,
+    "edges": 24,
+    "input": "228_dose20.txt",
+    "sha256": "3e3fbf25f09ea9f9ea9791401b65c55b4c18bed0f66539d4dc6cf720c87bf859",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 229,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 5,
+    "n": 24,
+    "edges": 25,
+    "input": "229_fresh_5205_cora_4.txt",
+    "sha256": "e928a75d3fc8d0d69118f8002b6a004450947d7504c2d42279d31192552557d8",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 229,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 5,
+    "n": 24,
+    "edges": 25,
+    "input": "229_dose1.txt",
+    "sha256": "e928a75d3fc8d0d69118f8002b6a004450947d7504c2d42279d31192552557d8",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 229,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 0,
+    "w": 5,
+    "n": 24,
+    "edges": 25,
+    "input": "229_dose5.txt",
+    "sha256": "e928a75d3fc8d0d69118f8002b6a004450947d7504c2d42279d31192552557d8",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 229,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 3,
+    "w": 5,
+    "n": 24,
+    "edges": 25,
+    "input": "229_dose20.txt",
+    "sha256": "ba7d26cd3492622ca7ea95168a91b734e42852056d3e8ec2041e71b95ecb10f3",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 230,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 3,
+    "n": 24,
+    "edges": 26,
+    "input": "230_fresh_5205_ogbn_arxiv_20k_0.txt",
+    "sha256": "05a4fbe119f1d8bbeab4a52d97ce4bf5e47406c03c610b77d00925decdcd1513",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 230,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 3,
+    "n": 24,
+    "edges": 26,
+    "input": "230_dose1.txt",
+    "sha256": "05a4fbe119f1d8bbeab4a52d97ce4bf5e47406c03c610b77d00925decdcd1513",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 230,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 3,
+    "w": 3,
+    "n": 24,
+    "edges": 26,
+    "input": "230_dose5.txt",
+    "sha256": "c95af737511b63bd4b6c852269abece7b5602a38a0b246094a8eecf75485dd48",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 230,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 6,
+    "w": 3,
+    "n": 24,
+    "edges": 26,
+    "input": "230_dose20.txt",
+    "sha256": "19125dff1490f5a7546f8cba0408d38eafb7fb4115ef7535220ac74fc90682eb",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 231,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 10,
+    "n": 24,
+    "edges": 29,
+    "input": "231_fresh_5205_ogbn_arxiv_20k_1.txt",
+    "sha256": "57e53ad7f79e2d7eb4d1c0aa3f48c1785b4ec998ef02970407b21ed0bca8293f",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 231,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 10,
+    "n": 24,
+    "edges": 29,
+    "input": "231_dose1.txt",
+    "sha256": "57e53ad7f79e2d7eb4d1c0aa3f48c1785b4ec998ef02970407b21ed0bca8293f",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 231,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 0,
+    "w": 10,
+    "n": 24,
+    "edges": 29,
+    "input": "231_dose5.txt",
+    "sha256": "57e53ad7f79e2d7eb4d1c0aa3f48c1785b4ec998ef02970407b21ed0bca8293f",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 231,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 5,
+    "w": 10,
+    "n": 24,
+    "edges": 29,
+    "input": "231_dose20.txt",
+    "sha256": "ad913fdfa1a40eddd1980814080e2fc83c62efd16489d7dc8e5fac7641a7714c",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 232,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 6,
+    "n": 24,
+    "edges": 34,
+    "input": "232_fresh_5205_ogbn_arxiv_20k_2.txt",
+    "sha256": "e2c35c02d662e9f175071f8e602c5bca0695bf77fcc979367417591a1abfed10",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 232,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 1,
+    "w": 6,
+    "n": 24,
+    "edges": 34,
+    "input": "232_dose1.txt",
+    "sha256": "db75d24c179530e86aecf26227f747b18c68eb805d03f272a9a647936b18a85a",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 232,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 6,
+    "w": 6,
+    "n": 24,
+    "edges": 34,
+    "input": "232_dose5.txt",
+    "sha256": "5584f122b3b9921a44c8524cf2acd4a6ebd6affedc9ddb3523a5f6b08f859d95",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 232,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 11,
+    "w": 6,
+    "n": 24,
+    "edges": 34,
+    "input": "232_dose20.txt",
+    "sha256": "012a4c1175c9a2f8cb429ed244250f2e965ecac2b937cf596291b0e640d67841",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 233,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 8,
+    "n": 24,
+    "edges": 30,
+    "input": "233_fresh_5205_ogbn_arxiv_20k_3.txt",
+    "sha256": "d6ecd6a10bed97a0ca61406ad33edc89b7f5d132209510a078e70ed5344944f9",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 233,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 1,
+    "w": 8,
+    "n": 24,
+    "edges": 30,
+    "input": "233_dose1.txt",
+    "sha256": "e41a3b1eaeaa6365bc2e1f1c8b5219b50867a3206eac490bc7fe3dd5c2f6be25",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 233,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 3,
+    "w": 8,
+    "n": 24,
+    "edges": 30,
+    "input": "233_dose5.txt",
+    "sha256": "59c1f8f7d52c73b44e118fe349529fd0b1d5115c1b91f5580d2b13d8c1b89b5b",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 233,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 11,
+    "w": 8,
+    "n": 24,
+    "edges": 30,
+    "input": "233_dose20.txt",
+    "sha256": "d64f243e98a3cc5e7ac701e841ec2c4c028ce7d5a23450af19f4d52a67bf1a7d",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 234,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 4,
+    "n": 24,
+    "edges": 43,
+    "input": "234_fresh_5205_ogbn_arxiv_20k_4.txt",
+    "sha256": "3765a3f8b0c102e7c48153bcd00a1a33acb0bb714ff709afcace795fed4305b3",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 234,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 4,
+    "n": 24,
+    "edges": 43,
+    "input": "234_dose1.txt",
+    "sha256": "3765a3f8b0c102e7c48153bcd00a1a33acb0bb714ff709afcace795fed4305b3",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 234,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 0,
+    "w": 4,
+    "n": 24,
+    "edges": 43,
+    "input": "234_dose5.txt",
+    "sha256": "3765a3f8b0c102e7c48153bcd00a1a33acb0bb714ff709afcace795fed4305b3",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 234,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 8,
+    "w": 4,
+    "n": 24,
+    "edges": 43,
+    "input": "234_dose20.txt",
+    "sha256": "f83a084b7c8eaadb6515eedb9a1fe1046f1c5f1a0e348c96a4bc39f021224a54",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 245,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 10,
+    "n": 24,
+    "edges": 29,
+    "input": "245_fresh_5206_cora_0.txt",
+    "sha256": "c0a4f16e4c0ad1fb16b82a744bdc3ed2e9c2f8a63575b5fadfcf72744b7de674",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 245,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 1,
+    "w": 10,
+    "n": 24,
+    "edges": 29,
+    "input": "245_dose1.txt",
+    "sha256": "245c01a081f2c2bd85cbb2bd0e3e825b2f858c52884313bb49bfd4a0de404528",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 245,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 4,
+    "w": 10,
+    "n": 24,
+    "edges": 29,
+    "input": "245_dose5.txt",
+    "sha256": "6386bec5cb667bd0829222c5969457cedbdde9cfe60b03d5be9f5c9e305927ba",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 245,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 5,
+    "w": 10,
+    "n": 24,
+    "edges": 29,
+    "input": "245_dose20.txt",
+    "sha256": "29ac78b17d57fe9c76589626373c5bf3dfe925b62578802d740e859cbbf2e16c",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 246,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 4,
+    "n": 24,
+    "edges": 24,
+    "input": "246_fresh_5206_cora_1.txt",
+    "sha256": "f55da539b3ec067f506d17efc852a342e2439e198723001dcdb7582702589b66",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 246,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 2,
+    "w": 4,
+    "n": 24,
+    "edges": 24,
+    "input": "246_dose1.txt",
+    "sha256": "e4f7c75e26f4cfe452309dc644a812aa050f0cbe5e8538a3c6162ccfa61113af",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 246,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 2,
+    "w": 4,
+    "n": 24,
+    "edges": 24,
+    "input": "246_dose5.txt",
+    "sha256": "e4f7c75e26f4cfe452309dc644a812aa050f0cbe5e8538a3c6162ccfa61113af",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 246,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 6,
+    "w": 4,
+    "n": 24,
+    "edges": 24,
+    "input": "246_dose20.txt",
+    "sha256": "6224665fb04880793ae71f4f35905fa95a64a8d393e1632066e3b6e9e0335f9e",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 247,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 5,
+    "n": 16,
+    "edges": 16,
+    "input": "247_fresh_5206_cora_2.txt",
+    "sha256": "00cc45531cf20b3576e84cf0cb8e2e61b6633556c6830990cbe8eba513122e32",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 247,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 5,
+    "n": 16,
+    "edges": 16,
+    "input": "247_dose1.txt",
+    "sha256": "00cc45531cf20b3576e84cf0cb8e2e61b6633556c6830990cbe8eba513122e32",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 247,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 0,
+    "w": 5,
+    "n": 16,
+    "edges": 16,
+    "input": "247_dose5.txt",
+    "sha256": "00cc45531cf20b3576e84cf0cb8e2e61b6633556c6830990cbe8eba513122e32",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 247,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 0,
+    "w": 5,
+    "n": 16,
+    "edges": 16,
+    "input": "247_dose20.txt",
+    "sha256": "00cc45531cf20b3576e84cf0cb8e2e61b6633556c6830990cbe8eba513122e32",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 248,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 3,
+    "n": 20,
+    "edges": 23,
+    "input": "248_fresh_5206_cora_3.txt",
+    "sha256": "93b6f7c3698d8d1bac82e519ae1e8243258b47e78222da6eb163800a13844d4e",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 248,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 3,
+    "n": 20,
+    "edges": 23,
+    "input": "248_dose1.txt",
+    "sha256": "93b6f7c3698d8d1bac82e519ae1e8243258b47e78222da6eb163800a13844d4e",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 248,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 1,
+    "w": 3,
+    "n": 20,
+    "edges": 23,
+    "input": "248_dose5.txt",
+    "sha256": "2c451bd92a751e727874eae45c7f363d61395e590338462c5a3dc0def5a1b560",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 248,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 4,
+    "w": 3,
+    "n": 20,
+    "edges": 23,
+    "input": "248_dose20.txt",
+    "sha256": "e8900c64c3316a63ae81589af4d22d537afdef23bcc166f374cde3d61dbf01b3",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 249,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 4,
+    "n": 8,
+    "edges": 11,
+    "input": "249_fresh_5206_cora_4.txt",
+    "sha256": "b1aa1aadc5d4e1355f265bdb2f34597c07e5767e89701ab5ed0ffdb9e7e819c2",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 249,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 4,
+    "n": 8,
+    "edges": 11,
+    "input": "249_dose1.txt",
+    "sha256": "b1aa1aadc5d4e1355f265bdb2f34597c07e5767e89701ab5ed0ffdb9e7e819c2",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 249,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 0,
+    "w": 4,
+    "n": 8,
+    "edges": 11,
+    "input": "249_dose5.txt",
+    "sha256": "b1aa1aadc5d4e1355f265bdb2f34597c07e5767e89701ab5ed0ffdb9e7e819c2",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 249,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 3,
+    "w": 4,
+    "n": 8,
+    "edges": 11,
+    "input": "249_dose20.txt",
+    "sha256": "1a45bef72c037ea46f9b467466291a71c8a2e6d805edffc166f9c677b1064c53",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 250,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 14,
+    "n": 24,
+    "edges": 24,
+    "input": "250_fresh_5206_ogbn_arxiv_20k_0.txt",
+    "sha256": "f4795aadfccfda7a341e4168ab046775652ee6cf6c0ed8af10c9e59961e337bf",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 250,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 14,
+    "n": 24,
+    "edges": 24,
+    "input": "250_dose1.txt",
+    "sha256": "f4795aadfccfda7a341e4168ab046775652ee6cf6c0ed8af10c9e59961e337bf",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 250,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 2,
+    "w": 14,
+    "n": 24,
+    "edges": 24,
+    "input": "250_dose5.txt",
+    "sha256": "8619bd7a7429ffbb62a1a68ca113cad6da47dabfa4e98437b1d6546ab7c0499c",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 250,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 4,
+    "w": 14,
+    "n": 24,
+    "edges": 24,
+    "input": "250_dose20.txt",
+    "sha256": "c56d51982ff4db9bc5242fc6478f7a94d98b30bb5213d795746344ac5010775e",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 251,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 3,
+    "n": 24,
+    "edges": 25,
+    "input": "251_fresh_5206_ogbn_arxiv_20k_1.txt",
+    "sha256": "f54bec9a2c329c32231132e1d33276abd7eee4a305abda5dfb649c8a9c68430d",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 251,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 3,
+    "n": 24,
+    "edges": 25,
+    "input": "251_dose1.txt",
+    "sha256": "f54bec9a2c329c32231132e1d33276abd7eee4a305abda5dfb649c8a9c68430d",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 251,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 0,
+    "w": 3,
+    "n": 24,
+    "edges": 25,
+    "input": "251_dose5.txt",
+    "sha256": "f54bec9a2c329c32231132e1d33276abd7eee4a305abda5dfb649c8a9c68430d",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 251,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 4,
+    "w": 3,
+    "n": 24,
+    "edges": 25,
+    "input": "251_dose20.txt",
+    "sha256": "6f99eba968e57b13826af4a6dba5187e82aa7a988dd3240aefca4f32acdfca04",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 252,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 10,
+    "n": 24,
+    "edges": 46,
+    "input": "252_fresh_5206_ogbn_arxiv_20k_2.txt",
+    "sha256": "b418a16bc42518b4206699f939a534616e3a91d0603380e51fb858a686f92765",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 252,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 10,
+    "n": 24,
+    "edges": 46,
+    "input": "252_dose1.txt",
+    "sha256": "b418a16bc42518b4206699f939a534616e3a91d0603380e51fb858a686f92765",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 252,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 4,
+    "w": 10,
+    "n": 24,
+    "edges": 46,
+    "input": "252_dose5.txt",
+    "sha256": "c7fe97dd3504618938b2ee9ff48865937fbd5a05b8d57d72da21cc6ce3c24a9a",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 252,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 13,
+    "w": 10,
+    "n": 24,
+    "edges": 46,
+    "input": "252_dose20.txt",
+    "sha256": "1441cd4912bdfaa218e52af5c428824dfdce63cd6fd5be23b8540da44b2c7bf6",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 253,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 9,
+    "n": 24,
+    "edges": 30,
+    "input": "253_fresh_5206_ogbn_arxiv_20k_3.txt",
+    "sha256": "330c6ed010f87168b10100e7f8d59b26c82713e81bf69650c277fc5105e546a3",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 253,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 9,
+    "n": 24,
+    "edges": 30,
+    "input": "253_dose1.txt",
+    "sha256": "330c6ed010f87168b10100e7f8d59b26c82713e81bf69650c277fc5105e546a3",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 253,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 0,
+    "w": 9,
+    "n": 24,
+    "edges": 30,
+    "input": "253_dose5.txt",
+    "sha256": "330c6ed010f87168b10100e7f8d59b26c82713e81bf69650c277fc5105e546a3",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 253,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 5,
+    "w": 9,
+    "n": 24,
+    "edges": 30,
+    "input": "253_dose20.txt",
+    "sha256": "f12fb7e8736c219781b3116c6a4325a2bdecffc617c2387b2e1c75d9e3eb2b1c",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 254,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 3,
+    "n": 24,
+    "edges": 24,
+    "input": "254_fresh_5206_ogbn_arxiv_20k_4.txt",
+    "sha256": "3dfd02bb4926718a7f045a9fe7961e1c5a63bdd205dac9d5d24bbb2d94b1eff7",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 254,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 1,
+    "w": 3,
+    "n": 24,
+    "edges": 24,
+    "input": "254_dose1.txt",
+    "sha256": "02c6a17f9244a59fb17c186dc7321fc40c80be4611e07841dde8d741fdd21d2c",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 254,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 2,
+    "w": 3,
+    "n": 24,
+    "edges": 24,
+    "input": "254_dose5.txt",
+    "sha256": "a001c783417f80fb4cc76fae9c0b768c796007e5225e4c945a6775a4cca9e5c9",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 254,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 8,
+    "w": 3,
+    "n": 24,
+    "edges": 24,
+    "input": "254_dose20.txt",
+    "sha256": "6926569d0a810d5e5eb8ed6caa7f0030b6292fce8b0f6fc20876a3c8654ab57f",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 265,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 3,
+    "n": 24,
+    "edges": 24,
+    "input": "265_fresh_5207_cora_0.txt",
+    "sha256": "8c0002ea36ff1a7d3a07c0d16a2b9ea9c68feac7206f1473fd7674f0128fd676",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 265,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 3,
+    "n": 24,
+    "edges": 24,
+    "input": "265_dose1.txt",
+    "sha256": "8c0002ea36ff1a7d3a07c0d16a2b9ea9c68feac7206f1473fd7674f0128fd676",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 265,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 0,
+    "w": 3,
+    "n": 24,
+    "edges": 24,
+    "input": "265_dose5.txt",
+    "sha256": "8c0002ea36ff1a7d3a07c0d16a2b9ea9c68feac7206f1473fd7674f0128fd676",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 265,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 3,
+    "w": 3,
+    "n": 24,
+    "edges": 24,
+    "input": "265_dose20.txt",
+    "sha256": "241ee6fca45e8ff52b8e2c7bef995e73b8517e80485f7084437851e0688b1df1",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 266,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 3,
+    "n": 15,
+    "edges": 19,
+    "input": "266_fresh_5207_cora_1.txt",
+    "sha256": "cf6cc6888c22ca1b353c3b73297da1bc60025ac0062784deccec71f2b06b9bed",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 266,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 3,
+    "n": 15,
+    "edges": 19,
+    "input": "266_dose1.txt",
+    "sha256": "cf6cc6888c22ca1b353c3b73297da1bc60025ac0062784deccec71f2b06b9bed",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 266,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 1,
+    "w": 3,
+    "n": 15,
+    "edges": 19,
+    "input": "266_dose5.txt",
+    "sha256": "7817cb3f3ebc62176e42954c5e13985bdb6478371f72b94341c4e4ab54c0b7d0",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 266,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 1,
+    "w": 3,
+    "n": 15,
+    "edges": 19,
+    "input": "266_dose20.txt",
+    "sha256": "7817cb3f3ebc62176e42954c5e13985bdb6478371f72b94341c4e4ab54c0b7d0",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 267,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 5,
+    "n": 24,
+    "edges": 26,
+    "input": "267_fresh_5207_cora_2.txt",
+    "sha256": "7d0ffbabf07bdb9cb2699732056ddfe740b18cf8bc2d551346b2dac1ace09006",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 267,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 1,
+    "w": 5,
+    "n": 24,
+    "edges": 26,
+    "input": "267_dose1.txt",
+    "sha256": "02e2650b8c1c350dc502cb29ad24714687e3019a14fb0c9d6c098ffc31e7e694",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 267,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 2,
+    "w": 5,
+    "n": 24,
+    "edges": 26,
+    "input": "267_dose5.txt",
+    "sha256": "54125810d5eb7126b0a6dab6bf2deb6f57d6e5b69aa452318f10467f3af220e8",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 267,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 4,
+    "w": 5,
+    "n": 24,
+    "edges": 26,
+    "input": "267_dose20.txt",
+    "sha256": "c07a6acd6e49d8b3d718e4d7383ed06beb4ae5226f9d9471b0c5277c7b573a98",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 268,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 6,
+    "n": 20,
+    "edges": 21,
+    "input": "268_fresh_5207_cora_3.txt",
+    "sha256": "a57a2af05cfc95f5e4ac83afc2e20f19a7a7aa251311b64f6b0bda07f9e7d34f",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 268,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 6,
+    "n": 20,
+    "edges": 21,
+    "input": "268_dose1.txt",
+    "sha256": "a57a2af05cfc95f5e4ac83afc2e20f19a7a7aa251311b64f6b0bda07f9e7d34f",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 268,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 0,
+    "w": 6,
+    "n": 20,
+    "edges": 21,
+    "input": "268_dose5.txt",
+    "sha256": "a57a2af05cfc95f5e4ac83afc2e20f19a7a7aa251311b64f6b0bda07f9e7d34f",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 268,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 6,
+    "w": 6,
+    "n": 20,
+    "edges": 21,
+    "input": "268_dose20.txt",
+    "sha256": "4438da17b9350fa0d57429d2eca2ac2cb617e6a860637b9042f14e6f3d96e391",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 269,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 6,
+    "n": 5,
+    "edges": 9,
+    "input": "269_fresh_5207_cora_4.txt",
+    "sha256": "02b2d30e2c4006e814ef71ea2b8d6ae3a67364dd8a71d7c6ae92cb05ece0ba2b",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 269,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 6,
+    "n": 5,
+    "edges": 9,
+    "input": "269_dose1.txt",
+    "sha256": "02b2d30e2c4006e814ef71ea2b8d6ae3a67364dd8a71d7c6ae92cb05ece0ba2b",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 269,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 1,
+    "w": 6,
+    "n": 5,
+    "edges": 9,
+    "input": "269_dose5.txt",
+    "sha256": "ecc39a9955e4d49b3bec0ddcd9ed04a8c53b6cf74fe62f2c8283615d80ad298e",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 269,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 4,
+    "w": 6,
+    "n": 5,
+    "edges": 9,
+    "input": "269_dose20.txt",
+    "sha256": "bbbaf4fa381bf7a88756c6d9fc001cbe0a4fbe8e887894fa95580aae43824223",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 270,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 9,
+    "n": 24,
+    "edges": 45,
+    "input": "270_fresh_5207_ogbn_arxiv_20k_0.txt",
+    "sha256": "898a0313286cb3ee506b5b2d6a706def0971a39d9d64d93bd022c8607e70e994",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 270,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 9,
+    "n": 24,
+    "edges": 45,
+    "input": "270_dose1.txt",
+    "sha256": "898a0313286cb3ee506b5b2d6a706def0971a39d9d64d93bd022c8607e70e994",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 270,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 3,
+    "w": 9,
+    "n": 24,
+    "edges": 45,
+    "input": "270_dose5.txt",
+    "sha256": "6870b0d8e869a5a516c32007301688b70e9d0e2674651f498e66e3e0ab81dfbd",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 270,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 9,
+    "w": 9,
+    "n": 24,
+    "edges": 45,
+    "input": "270_dose20.txt",
+    "sha256": "ae43c8f4c48248005c5e81b47fac86b8351c3517b8b3a1638a3c223e00d0e1e3",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 271,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 5,
+    "n": 24,
+    "edges": 24,
+    "input": "271_fresh_5207_ogbn_arxiv_20k_1.txt",
+    "sha256": "e2f0268a1f8d2113bda93e0e0976ff4935fff55f37a0f036a09c4387fbb35c92",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 271,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 5,
+    "n": 24,
+    "edges": 24,
+    "input": "271_dose1.txt",
+    "sha256": "e2f0268a1f8d2113bda93e0e0976ff4935fff55f37a0f036a09c4387fbb35c92",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 271,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 1,
+    "w": 5,
+    "n": 24,
+    "edges": 24,
+    "input": "271_dose5.txt",
+    "sha256": "1664c76b276a893f315957afa04e33a34fac71ad5412323eb04e71ae7c235cb4",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 271,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 1,
+    "w": 5,
+    "n": 24,
+    "edges": 24,
+    "input": "271_dose20.txt",
+    "sha256": "1664c76b276a893f315957afa04e33a34fac71ad5412323eb04e71ae7c235cb4",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 272,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 13,
+    "n": 24,
+    "edges": 36,
+    "input": "272_fresh_5207_ogbn_arxiv_20k_2.txt",
+    "sha256": "2201ede3e038f6fed5f3cdd96dd2905dcc44f2d3939124efe68fdc11a4522573",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 272,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 13,
+    "n": 24,
+    "edges": 36,
+    "input": "272_dose1.txt",
+    "sha256": "2201ede3e038f6fed5f3cdd96dd2905dcc44f2d3939124efe68fdc11a4522573",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 272,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 1,
+    "w": 13,
+    "n": 24,
+    "edges": 36,
+    "input": "272_dose5.txt",
+    "sha256": "973b8af45899ea2d6de65c927c93a02ca1b6f1a4361c55e1306d37558d1d7b08",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 272,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 6,
+    "w": 13,
+    "n": 24,
+    "edges": 36,
+    "input": "272_dose20.txt",
+    "sha256": "31470e2eed28f6106d07ec6d771d49e7dfad824ff27624790cafdb2d59113380",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 273,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 10,
+    "n": 24,
+    "edges": 28,
+    "input": "273_fresh_5207_ogbn_arxiv_20k_3.txt",
+    "sha256": "a7073c938135d9d6b85e46b7a5cde3d8840fc837239d7d2372c4f1dea5136b89",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 273,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 10,
+    "n": 24,
+    "edges": 28,
+    "input": "273_dose1.txt",
+    "sha256": "a7073c938135d9d6b85e46b7a5cde3d8840fc837239d7d2372c4f1dea5136b89",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 273,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 0,
+    "w": 10,
+    "n": 24,
+    "edges": 28,
+    "input": "273_dose5.txt",
+    "sha256": "a7073c938135d9d6b85e46b7a5cde3d8840fc837239d7d2372c4f1dea5136b89",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 273,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 4,
+    "w": 10,
+    "n": 24,
+    "edges": 28,
+    "input": "273_dose20.txt",
+    "sha256": "d58a6482906373dfcb7293e12533d3e7a9e378fa1524cddb8702e73df35ed493",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 274,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 11,
+    "n": 24,
+    "edges": 27,
+    "input": "274_fresh_5207_ogbn_arxiv_20k_4.txt",
+    "sha256": "1d8050b0cc8dbd7c404701aadc0b7343c40d707901a2752b5844d2d3a9bdd38c",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 274,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 11,
+    "n": 24,
+    "edges": 27,
+    "input": "274_dose1.txt",
+    "sha256": "1d8050b0cc8dbd7c404701aadc0b7343c40d707901a2752b5844d2d3a9bdd38c",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 274,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 1,
+    "w": 11,
+    "n": 24,
+    "edges": 27,
+    "input": "274_dose5.txt",
+    "sha256": "e34b76e5b5fa7db844a777bf4463df6828bc0de76875bf9af73d89ec77478f7f",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 274,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 6,
+    "w": 11,
+    "n": 24,
+    "edges": 27,
+    "input": "274_dose20.txt",
+    "sha256": "6e06c4913f077c69382b76a3a5fe26dce4367c9de3015295b751a5977a2f4429",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 285,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 3,
+    "n": 24,
+    "edges": 41,
+    "input": "285_fresh_5208_cora_0.txt",
+    "sha256": "9c9385575d57f0c0ac441da4397a9f1ab1a5626fa04ab99fd5fe99a1d103a514",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 285,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 3,
+    "n": 24,
+    "edges": 41,
+    "input": "285_dose1.txt",
+    "sha256": "9c9385575d57f0c0ac441da4397a9f1ab1a5626fa04ab99fd5fe99a1d103a514",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 285,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 1,
+    "w": 3,
+    "n": 24,
+    "edges": 41,
+    "input": "285_dose5.txt",
+    "sha256": "0622cad6af9148bf2f4d41f06beae0931e5c7ffc1f51b0d793706b0002348031",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 285,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 11,
+    "w": 3,
+    "n": 24,
+    "edges": 41,
+    "input": "285_dose20.txt",
+    "sha256": "e21898c922df8600cf3c71909846788b4358a2ae690808f3a3ce52022d409fd0",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 286,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 5,
+    "n": 24,
+    "edges": 26,
+    "input": "286_fresh_5208_cora_1.txt",
+    "sha256": "176edce1524c2252351fb18e98ccec0f7c10fc15893a12133f5061509a66c6de",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 286,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 5,
+    "n": 24,
+    "edges": 26,
+    "input": "286_dose1.txt",
+    "sha256": "176edce1524c2252351fb18e98ccec0f7c10fc15893a12133f5061509a66c6de",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 286,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 0,
+    "w": 5,
+    "n": 24,
+    "edges": 26,
+    "input": "286_dose5.txt",
+    "sha256": "176edce1524c2252351fb18e98ccec0f7c10fc15893a12133f5061509a66c6de",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 286,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 5,
+    "w": 5,
+    "n": 24,
+    "edges": 26,
+    "input": "286_dose20.txt",
+    "sha256": "b58757ebc023e0439c31296d64e3b865f4eced9c3c59701924e5444ca19be475",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 287,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 4,
+    "n": 11,
+    "edges": 12,
+    "input": "287_fresh_5208_cora_2.txt",
+    "sha256": "2cb020936cc0266e23684ea6535d5d5ea0a49b82d50ad813b75baae1b52379cd",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 287,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 4,
+    "n": 11,
+    "edges": 12,
+    "input": "287_dose1.txt",
+    "sha256": "2cb020936cc0266e23684ea6535d5d5ea0a49b82d50ad813b75baae1b52379cd",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 287,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 1,
+    "w": 4,
+    "n": 11,
+    "edges": 12,
+    "input": "287_dose5.txt",
+    "sha256": "838a035c502c7c1130a9369f10ed701c083f0c79c4722aabab652ce04300d6c2",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 287,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 3,
+    "w": 4,
+    "n": 11,
+    "edges": 12,
+    "input": "287_dose20.txt",
+    "sha256": "687ee4dd6c15aed3b5606b6176bf1b53c19092d6d98c0ba8771a9576e6a50d15",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 288,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 3,
+    "n": 5,
+    "edges": 9,
+    "input": "288_fresh_5208_cora_3.txt",
+    "sha256": "468755c58cee8a34c7e2293a7e48f4b485cc06df34abb7d357f3c08cdd13387c",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 288,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 3,
+    "n": 5,
+    "edges": 9,
+    "input": "288_dose1.txt",
+    "sha256": "468755c58cee8a34c7e2293a7e48f4b485cc06df34abb7d357f3c08cdd13387c",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 288,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 0,
+    "w": 3,
+    "n": 5,
+    "edges": 9,
+    "input": "288_dose5.txt",
+    "sha256": "468755c58cee8a34c7e2293a7e48f4b485cc06df34abb7d357f3c08cdd13387c",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 288,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 0,
+    "w": 3,
+    "n": 5,
+    "edges": 9,
+    "input": "288_dose20.txt",
+    "sha256": "468755c58cee8a34c7e2293a7e48f4b485cc06df34abb7d357f3c08cdd13387c",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 289,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 4,
+    "n": 24,
+    "edges": 25,
+    "input": "289_fresh_5208_cora_4.txt",
+    "sha256": "972235843740bf97f0f56ff258990d8f0b8b87f09b6dc03425d7dfbe1a96c3cf",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 289,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 4,
+    "n": 24,
+    "edges": 25,
+    "input": "289_dose1.txt",
+    "sha256": "972235843740bf97f0f56ff258990d8f0b8b87f09b6dc03425d7dfbe1a96c3cf",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 289,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 1,
+    "w": 4,
+    "n": 24,
+    "edges": 25,
+    "input": "289_dose5.txt",
+    "sha256": "0e78f30735d57c7292de40c47d026dff5a38b975d86ef1af00a9c488b9f78294",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 289,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 3,
+    "w": 4,
+    "n": 24,
+    "edges": 25,
+    "input": "289_dose20.txt",
+    "sha256": "0206a90db14c8a9d97fbc7c4dce2e2413d300863300fbeaad94b4367a7dde6ea",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 290,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 8,
+    "n": 24,
+    "edges": 35,
+    "input": "290_fresh_5208_ogbn_arxiv_20k_0.txt",
+    "sha256": "c8bad4f35ca133463c366271c16b9e586caeebfc54929a634ff3097455fa9f61",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 290,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 1,
+    "w": 8,
+    "n": 24,
+    "edges": 35,
+    "input": "290_dose1.txt",
+    "sha256": "1a910e31119d4313351939c22799633695145a5b307ff4439951fb9358e8e555",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 290,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 3,
+    "w": 8,
+    "n": 24,
+    "edges": 35,
+    "input": "290_dose5.txt",
+    "sha256": "f48e7cc811bb4f3ec0b8944e9bc827a01426b3f03c3972c7d80f1a20fc37fa7d",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 290,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 10,
+    "w": 8,
+    "n": 24,
+    "edges": 35,
+    "input": "290_dose20.txt",
+    "sha256": "b10f1bd91a4599ea69733e9e6989589fad34d6c19108da3a3bf48859cfbb1253",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 291,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 14,
+    "n": 24,
+    "edges": 30,
+    "input": "291_fresh_5208_ogbn_arxiv_20k_1.txt",
+    "sha256": "74cd95cebae20217146b5d18692d8652e050e3d28a0d0e55644537644d644590",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 291,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 14,
+    "n": 24,
+    "edges": 30,
+    "input": "291_dose1.txt",
+    "sha256": "74cd95cebae20217146b5d18692d8652e050e3d28a0d0e55644537644d644590",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 291,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 1,
+    "w": 14,
+    "n": 24,
+    "edges": 30,
+    "input": "291_dose5.txt",
+    "sha256": "b93be8d428ebae3b72753e6931f78382769c5eb6a88a152cc20906da29879641",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 291,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 4,
+    "w": 14,
+    "n": 24,
+    "edges": 30,
+    "input": "291_dose20.txt",
+    "sha256": "8c6c9573fbada7094d146ebd7791cb923125550227167afded51cfe09747d131",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 292,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 4,
+    "n": 24,
+    "edges": 24,
+    "input": "292_fresh_5208_ogbn_arxiv_20k_2.txt",
+    "sha256": "9ddfcd303b4372b9dd464944b71ba9758ec9cc6ea23678503188ce6a11a68aeb",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 292,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 4,
+    "n": 24,
+    "edges": 24,
+    "input": "292_dose1.txt",
+    "sha256": "9ddfcd303b4372b9dd464944b71ba9758ec9cc6ea23678503188ce6a11a68aeb",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 292,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 2,
+    "w": 4,
+    "n": 24,
+    "edges": 24,
+    "input": "292_dose5.txt",
+    "sha256": "ca3ed42744905df2f8e7cdd23b7fa8a76ef95eabb05079234eb87bb807191852",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 292,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 4,
+    "w": 4,
+    "n": 24,
+    "edges": 24,
+    "input": "292_dose20.txt",
+    "sha256": "1b201bc0a8e89fa4835f95020c5e4a40b87c90f62160dec6141ab13587f34140",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 293,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 12,
+    "n": 24,
+    "edges": 87,
+    "input": "293_fresh_5208_ogbn_arxiv_20k_3.txt",
+    "sha256": "ce83b86f34fe21eaeeab0b8aa758ce46f104bfc5d8c70c5bec9ac0da847fc516",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 293,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 2,
+    "w": 12,
+    "n": 24,
+    "edges": 87,
+    "input": "293_dose1.txt",
+    "sha256": "11f32eb5747f2b3e70b9415f6ea7078bedd41fa99cc0b5c1a4dc4b9fd500f5e5",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 293,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 3,
+    "w": 12,
+    "n": 24,
+    "edges": 87,
+    "input": "293_dose5.txt",
+    "sha256": "c2bc527b2145099f54f89ab8ce901f0199db0645a28b2151335999834512bead",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 293,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 17,
+    "w": 12,
+    "n": 24,
+    "edges": 87,
+    "input": "293_dose20.txt",
+    "sha256": "2096af0d9c1bfc75fe33b9e42dc4632ae4e0368b50e9387be57a69e0b292589d",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 294,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 9,
+    "n": 24,
+    "edges": 39,
+    "input": "294_fresh_5208_ogbn_arxiv_20k_4.txt",
+    "sha256": "435cc9ebd17447b21db34be654a28c2d25f7f72e0e6caa31c2b2fdd75b891796",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 294,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 9,
+    "n": 24,
+    "edges": 39,
+    "input": "294_dose1.txt",
+    "sha256": "435cc9ebd17447b21db34be654a28c2d25f7f72e0e6caa31c2b2fdd75b891796",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 294,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 3,
+    "w": 9,
+    "n": 24,
+    "edges": 39,
+    "input": "294_dose5.txt",
+    "sha256": "fdbc4f4f120e1d548f0afc7c854fe9640009185728f516eadf9bfc6f396a9466",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 294,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 8,
+    "w": 9,
+    "n": 24,
+    "edges": 39,
+    "input": "294_dose20.txt",
+    "sha256": "aedae3019f9410ac04a7f751a4656c726ba97404ae12c66dc3b38a019c4ade65",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 305,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 6,
+    "n": 15,
+    "edges": 19,
+    "input": "305_fresh_5209_cora_0.txt",
+    "sha256": "4f62bc9afbe2cc9d424ac670163150a1664c7302f0b046dc04c7b497cda93011",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 305,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 6,
+    "n": 15,
+    "edges": 19,
+    "input": "305_dose1.txt",
+    "sha256": "4f62bc9afbe2cc9d424ac670163150a1664c7302f0b046dc04c7b497cda93011",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 305,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 2,
+    "w": 6,
+    "n": 15,
+    "edges": 19,
+    "input": "305_dose5.txt",
+    "sha256": "13e1aa524eb2057a5d030009e96f04343c65aa9bb9d8f1cda46aa5b48d144693",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 305,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 3,
+    "w": 6,
+    "n": 15,
+    "edges": 19,
+    "input": "305_dose20.txt",
+    "sha256": "4e19cf5571219cfd08f306a30e8ebcdce871a07ebc6e0e1d43a3fbbaa9e19ab6",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 306,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 6,
+    "n": 2,
+    "edges": 2,
+    "input": "306_fresh_5209_cora_1.txt",
+    "sha256": "21272a1b0e765a58d60f7b9d80e09c1131310e645b0e5468e38c0718706768f0",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 306,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 6,
+    "n": 2,
+    "edges": 2,
+    "input": "306_dose1.txt",
+    "sha256": "21272a1b0e765a58d60f7b9d80e09c1131310e645b0e5468e38c0718706768f0",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 306,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 0,
+    "w": 6,
+    "n": 2,
+    "edges": 2,
+    "input": "306_dose5.txt",
+    "sha256": "21272a1b0e765a58d60f7b9d80e09c1131310e645b0e5468e38c0718706768f0",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 306,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 0,
+    "w": 6,
+    "n": 2,
+    "edges": 2,
+    "input": "306_dose20.txt",
+    "sha256": "21272a1b0e765a58d60f7b9d80e09c1131310e645b0e5468e38c0718706768f0",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 307,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 3,
+    "n": 10,
+    "edges": 12,
+    "input": "307_fresh_5209_cora_2.txt",
+    "sha256": "802f15b5adb534e1e075a50133f66f8199aa3c5c7529154981f3de29c280699a",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 307,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 3,
+    "n": 10,
+    "edges": 12,
+    "input": "307_dose1.txt",
+    "sha256": "802f15b5adb534e1e075a50133f66f8199aa3c5c7529154981f3de29c280699a",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 307,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 1,
+    "w": 3,
+    "n": 10,
+    "edges": 12,
+    "input": "307_dose5.txt",
+    "sha256": "533f460ad5f87e33f1e9c00264e9fd183bffb99e5b0f6ecba1dd8ceb9dbac022",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 307,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 1,
+    "w": 3,
+    "n": 10,
+    "edges": 12,
+    "input": "307_dose20.txt",
+    "sha256": "533f460ad5f87e33f1e9c00264e9fd183bffb99e5b0f6ecba1dd8ceb9dbac022",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 308,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 4,
+    "n": 24,
+    "edges": 24,
+    "input": "308_fresh_5209_cora_3.txt",
+    "sha256": "aae713179100e4a1b3084b3b6fd21740c5035abec2de3376f3701c136b5a8d58",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 308,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 4,
+    "n": 24,
+    "edges": 24,
+    "input": "308_dose1.txt",
+    "sha256": "aae713179100e4a1b3084b3b6fd21740c5035abec2de3376f3701c136b5a8d58",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 308,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 0,
+    "w": 4,
+    "n": 24,
+    "edges": 24,
+    "input": "308_dose5.txt",
+    "sha256": "aae713179100e4a1b3084b3b6fd21740c5035abec2de3376f3701c136b5a8d58",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 308,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 6,
+    "w": 4,
+    "n": 24,
+    "edges": 24,
+    "input": "308_dose20.txt",
+    "sha256": "872c2b6211f756057e11e0dbc4d481aa8f9d4598c2f6a6c93ad83c08afadd710",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 309,
+    "group": "Small Cora",
+    "dose": 0,
+    "marked": 0,
+    "w": 4,
+    "n": 18,
+    "edges": 18,
+    "input": "309_fresh_5209_cora_4.txt",
+    "sha256": "e3f25c1127cf09f71236deebfb430698e23ab64f73bcaf9bf47b2e7e548ed41b",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 309,
+    "group": "Small Cora",
+    "dose": 1,
+    "marked": 0,
+    "w": 4,
+    "n": 18,
+    "edges": 18,
+    "input": "309_dose1.txt",
+    "sha256": "e3f25c1127cf09f71236deebfb430698e23ab64f73bcaf9bf47b2e7e548ed41b",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 309,
+    "group": "Small Cora",
+    "dose": 5,
+    "marked": 0,
+    "w": 4,
+    "n": 18,
+    "edges": 18,
+    "input": "309_dose5.txt",
+    "sha256": "e3f25c1127cf09f71236deebfb430698e23ab64f73bcaf9bf47b2e7e548ed41b",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 309,
+    "group": "Small Cora",
+    "dose": 20,
+    "marked": 1,
+    "w": 4,
+    "n": 18,
+    "edges": 18,
+    "input": "309_dose20.txt",
+    "sha256": "855df0c64445cd1fd432978c7d25ae4a8a165c9caab5964d7862ceb676c5a5c1",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 310,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 9,
+    "n": 24,
+    "edges": 36,
+    "input": "310_fresh_5209_ogbn_arxiv_20k_0.txt",
+    "sha256": "54692a4c811355edb0b05d6c4848784d1ad9a70f1cbedfb1b30cba2a84a3a0df",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 310,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 9,
+    "n": 24,
+    "edges": 36,
+    "input": "310_dose1.txt",
+    "sha256": "54692a4c811355edb0b05d6c4848784d1ad9a70f1cbedfb1b30cba2a84a3a0df",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 310,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 0,
+    "w": 9,
+    "n": 24,
+    "edges": 36,
+    "input": "310_dose5.txt",
+    "sha256": "54692a4c811355edb0b05d6c4848784d1ad9a70f1cbedfb1b30cba2a84a3a0df",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 310,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 8,
+    "w": 9,
+    "n": 24,
+    "edges": 36,
+    "input": "310_dose20.txt",
+    "sha256": "9cd1fa21a95253dfada7d482622f75951bdd98062e8ed35d08e9134c42d68c7d",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 311,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 6,
+    "n": 24,
+    "edges": 41,
+    "input": "311_fresh_5209_ogbn_arxiv_20k_1.txt",
+    "sha256": "ef6d63bf3cf5ccafbd0dd31a1ad89370d29da2a22883a525c987e114d5bc2b34",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 311,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 6,
+    "n": 24,
+    "edges": 41,
+    "input": "311_dose1.txt",
+    "sha256": "ef6d63bf3cf5ccafbd0dd31a1ad89370d29da2a22883a525c987e114d5bc2b34",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 311,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 1,
+    "w": 6,
+    "n": 24,
+    "edges": 41,
+    "input": "311_dose5.txt",
+    "sha256": "508038087cde5d344884fbc3ecdb2bde9ef4ec040b166fef44fb844349232d6f",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 311,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 8,
+    "w": 6,
+    "n": 24,
+    "edges": 41,
+    "input": "311_dose20.txt",
+    "sha256": "77a9fa83d9c17b29d0020fd0e0f8a789377ef0cf3e7f183c0b12091c3be8c52f",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 312,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 8,
+    "n": 24,
+    "edges": 29,
+    "input": "312_fresh_5209_ogbn_arxiv_20k_2.txt",
+    "sha256": "36ed0d1ac1902bc34b3d95136adb4ab78df72f2e1a8fe3cdcab97bb8ae0c16b5",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 312,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 1,
+    "w": 8,
+    "n": 24,
+    "edges": 29,
+    "input": "312_dose1.txt",
+    "sha256": "9d3b50c6d2bc57eec55c75cd83d71701cfdac82619b5ea900a96c1080ac971a9",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 312,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 1,
+    "w": 8,
+    "n": 24,
+    "edges": 29,
+    "input": "312_dose5.txt",
+    "sha256": "9d3b50c6d2bc57eec55c75cd83d71701cfdac82619b5ea900a96c1080ac971a9",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 312,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 3,
+    "w": 8,
+    "n": 24,
+    "edges": 29,
+    "input": "312_dose20.txt",
+    "sha256": "8b3ca13b2b391108d3fa870e10e8adee8c225b0d2241ccb776507c98467d7920",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 313,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 13,
+    "n": 24,
+    "edges": 33,
+    "input": "313_fresh_5209_ogbn_arxiv_20k_3.txt",
+    "sha256": "5aee008e058030c0b1b8e7c46976d6384086058e758ca61306742fd63896ac66",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 313,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 1,
+    "w": 13,
+    "n": 24,
+    "edges": 33,
+    "input": "313_dose1.txt",
+    "sha256": "ce60eb9ca489ba6dabee6e6effef8539f4b9d341327c9f2546973851d17c067b",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 313,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 2,
+    "w": 13,
+    "n": 24,
+    "edges": 33,
+    "input": "313_dose5.txt",
+    "sha256": "4d67b7a3927e363fe10bd305b4601f7fd7920ae66b8dc6c28f58afbb12c8dc34",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 313,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 9,
+    "w": 13,
+    "n": 24,
+    "edges": 33,
+    "input": "313_dose20.txt",
+    "sha256": "f80fde09df273674d3143c8e12e998866b1901f775271072df4058c260836f8a",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 314,
+    "group": "Small OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 6,
+    "n": 24,
+    "edges": 43,
+    "input": "314_fresh_5209_ogbn_arxiv_20k_4.txt",
+    "sha256": "57085d756e9dc96dfff4aeaedcdf7fb1025f4f49d2cc93df8a6bf4399436d483",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 314,
+    "group": "Small OGB",
+    "dose": 1,
+    "marked": 0,
+    "w": 6,
+    "n": 24,
+    "edges": 43,
+    "input": "314_dose1.txt",
+    "sha256": "57085d756e9dc96dfff4aeaedcdf7fb1025f4f49d2cc93df8a6bf4399436d483",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 314,
+    "group": "Small OGB",
+    "dose": 5,
+    "marked": 5,
+    "w": 6,
+    "n": 24,
+    "edges": 43,
+    "input": "314_dose5.txt",
+    "sha256": "1dbdeded4e36ab26ac83eaec96627944ab5b545bbd21df3a385f32247fc6ba77",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 314,
+    "group": "Small OGB",
+    "dose": 20,
+    "marked": 12,
+    "w": 6,
+    "n": 24,
+    "edges": 43,
+    "input": "314_dose20.txt",
+    "sha256": "340350a760e937d817dbc5054a6badd6819b47c50b4cbfcf26a7558ed7b2e94b",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 240,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 30,
+    "n": 256,
+    "edges": 375,
+    "input": "240_fresh_5205_ogbn_arxiv_20k_large_0.txt",
+    "sha256": "28db5ffdad787384b360799160b1a130e0eebaf1228d3e38c9b7249f56579c1e",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 240,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 1,
+    "w": 30,
+    "n": 256,
+    "edges": 375,
+    "input": "240_dose1.txt",
+    "sha256": "0dda711115277dafd26e6a7be91e172e1da5064f9f9502acf04a677da1f6c629",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 240,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 20,
+    "w": 30,
+    "n": 256,
+    "edges": 375,
+    "input": "240_dose5.txt",
+    "sha256": "a818626cb9edaef1d01d52903782205d30da6b4d4bf258e6dc283a5c246903b5",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 240,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 68,
+    "w": 30,
+    "n": 256,
+    "edges": 375,
+    "input": "240_dose20.txt",
+    "sha256": "9119743477b13523bdd189fd897da491374a32c87287fec0a94c8ac674e60f47",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 241,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 16,
+    "n": 256,
+    "edges": 464,
+    "input": "241_fresh_5205_ogbn_arxiv_20k_large_1.txt",
+    "sha256": "4b3b48016ade7293ff576873233591eae93d1cb2c54b6b6d6d118730a7871ab5",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 241,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 4,
+    "w": 16,
+    "n": 256,
+    "edges": 464,
+    "input": "241_dose1.txt",
+    "sha256": "9ea730faa91ef19e1954352d20217f1cff57460b8e6b4337ee0624859411a941",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 241,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 21,
+    "w": 16,
+    "n": 256,
+    "edges": 464,
+    "input": "241_dose5.txt",
+    "sha256": "ee18f56c6b56321fed8cf49292819269a5d5db1b14cc263df7b2a79a60fc6f82",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 241,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 94,
+    "w": 16,
+    "n": 256,
+    "edges": 464,
+    "input": "241_dose20.txt",
+    "sha256": "e1577665aa08550180974fe1d1c5220a007666fc2fbdd9b9819d5fc0b2c24235",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 242,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 19,
+    "n": 256,
+    "edges": 496,
+    "input": "242_fresh_5205_ogbn_arxiv_20k_large_2.txt",
+    "sha256": "5fa727575042c51931a974da0b19bc6d96807999508758ea97ff1e00a0e5515a",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 242,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 9,
+    "w": 19,
+    "n": 256,
+    "edges": 496,
+    "input": "242_dose1.txt",
+    "sha256": "1ac52105317d263fb90d1db095941bcb278188989a6d1d737c08a11111adaecc",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 242,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 25,
+    "w": 19,
+    "n": 256,
+    "edges": 496,
+    "input": "242_dose5.txt",
+    "sha256": "3714291e9ef014a4fc528ccb65b23f9b21a6fa347faadb53cd184356208f2732",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 242,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 103,
+    "w": 19,
+    "n": 256,
+    "edges": 496,
+    "input": "242_dose20.txt",
+    "sha256": "8457f3e4d4d0a1211036a7f7491d863b756f4247b2c49edb1d0fc4a20ce64f28",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 243,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 124,
+    "n": 256,
+    "edges": 565,
+    "input": "243_fresh_5205_ogbn_arxiv_20k_large_3.txt",
+    "sha256": "6709078eb0e56c7951cf0db33651ee861dbedd624a2880cd39279d76aba9e28b",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 243,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 5,
+    "w": 124,
+    "n": 256,
+    "edges": 565,
+    "input": "243_dose1.txt",
+    "sha256": "2fe69cdf754ecfac7c20cd64f1a143b5de394eb682ba1b46d82208eeaebee2f5",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 243,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 32,
+    "w": 124,
+    "n": 256,
+    "edges": 565,
+    "input": "243_dose5.txt",
+    "sha256": "65fb78a7703dd04de82a792495425ae5b4f80e128670e526ee461a3d9257ecf5",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 243,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 121,
+    "w": 124,
+    "n": 256,
+    "edges": 565,
+    "input": "243_dose20.txt",
+    "sha256": "af7bd6ee8641bbce603e9bada2fd6c1b9ee9e640827bf65e49730ef5a48b608d",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 244,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 546,
+    "n": 256,
+    "edges": 685,
+    "input": "244_fresh_5205_ogbn_arxiv_20k_large_4.txt",
+    "sha256": "bd89f33829feaffb97c00f5c8a4f131ae7c6b41d0bf7303704c9e2a1fb25df1b",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 244,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 5,
+    "w": 546,
+    "n": 256,
+    "edges": 685,
+    "input": "244_dose1.txt",
+    "sha256": "5542783cd4ccbf29170e4eafb5beeaf3c29630b414e4d8d15c146b3bfc958c92",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 244,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 36,
+    "w": 546,
+    "n": 256,
+    "edges": 685,
+    "input": "244_dose5.txt",
+    "sha256": "bb7dfb59191507015c801bd276b4480fca98c43fcb33bdecfd42493ad70ae39a",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 244,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 140,
+    "w": 546,
+    "n": 256,
+    "edges": 685,
+    "input": "244_dose20.txt",
+    "sha256": "9d386f232eb0b6ca70bda569e31554627dede184af262709306167e08f6f0d6c",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 260,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 20,
+    "n": 256,
+    "edges": 408,
+    "input": "260_fresh_5206_ogbn_arxiv_20k_large_0.txt",
+    "sha256": "d7a8d902c5ce23edac4bdf8dc20fb5f2d19c2bd98db782a0a60aa1565dd0eeaf",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 260,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 2,
+    "w": 20,
+    "n": 256,
+    "edges": 408,
+    "input": "260_dose1.txt",
+    "sha256": "50aa23c8150debe3588644ede6cbae03cd49415866a30990ab5f0010b918992c",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 260,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 18,
+    "w": 20,
+    "n": 256,
+    "edges": 408,
+    "input": "260_dose5.txt",
+    "sha256": "69a5803c948e38ef5b22423b8dfb4733675cf46c5aefbdb072c42b71867e920c",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 260,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 90,
+    "w": 20,
+    "n": 256,
+    "edges": 408,
+    "input": "260_dose20.txt",
+    "sha256": "5f04f3c6cdb48a650be6700a9a4900fa76399b7f00ef70b474f419f5ed9b0681",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 261,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 22,
+    "n": 256,
+    "edges": 414,
+    "input": "261_fresh_5206_ogbn_arxiv_20k_large_1.txt",
+    "sha256": "9ce6987b40b0ef86a09e1f5412df42d76dd816936d27b2efea770c7bc9c585a2",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 261,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 6,
+    "w": 22,
+    "n": 256,
+    "edges": 414,
+    "input": "261_dose1.txt",
+    "sha256": "08084845e3db7f04445b350125e31bf994c3068634a21dd784345d3ca2aef5e6",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 261,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 26,
+    "w": 22,
+    "n": 256,
+    "edges": 414,
+    "input": "261_dose5.txt",
+    "sha256": "151161ce5766bd49fcfb76d4a32e6c3c8a9019ac480fe91e337af75a2239f67c",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 261,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 82,
+    "w": 22,
+    "n": 256,
+    "edges": 414,
+    "input": "261_dose20.txt",
+    "sha256": "06146221953395c79e0c53e1dd34b1047220a3be39658ed48c48324a5e435794",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 262,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 19,
+    "n": 256,
+    "edges": 290,
+    "input": "262_fresh_5206_ogbn_arxiv_20k_large_2.txt",
+    "sha256": "ede3b4c31b4aa03eb9583da0de69ebd07ef863f6e137e02d47fd57d8868a2834",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 262,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 3,
+    "w": 19,
+    "n": 256,
+    "edges": 290,
+    "input": "262_dose1.txt",
+    "sha256": "7d15df92b811ad86db451317fafa1f819f18e49e1c46296ca0c4017ecd6847da",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 262,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 16,
+    "w": 19,
+    "n": 256,
+    "edges": 290,
+    "input": "262_dose5.txt",
+    "sha256": "ce56d18ab7c776ddb42b09a2098e5513a88c2e9da6f2f71221ec18c238af72a3",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 262,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 59,
+    "w": 19,
+    "n": 256,
+    "edges": 290,
+    "input": "262_dose20.txt",
+    "sha256": "d0fbd670fbd21a3fea5964bea5f0555e943cf6babb2431b6fecb5ee6f9973515",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 263,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 18,
+    "n": 256,
+    "edges": 428,
+    "input": "263_fresh_5206_ogbn_arxiv_20k_large_3.txt",
+    "sha256": "3abdf3234c478aa6d8cf4343a9cdc11b860d6a239b06adfcb562a7ff9b89a480",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 263,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 2,
+    "w": 18,
+    "n": 256,
+    "edges": 428,
+    "input": "263_dose1.txt",
+    "sha256": "bc6702abcd9e21056dda54b2302c9a64d7b947cb83d5208bf7656c08c4699365",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 263,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 20,
+    "w": 18,
+    "n": 256,
+    "edges": 428,
+    "input": "263_dose5.txt",
+    "sha256": "d7a2662346f23e4ef0d4419e573b253c2468e5700b5d5fab7e71d7aa6b573e87",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 263,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 73,
+    "w": 18,
+    "n": 256,
+    "edges": 428,
+    "input": "263_dose20.txt",
+    "sha256": "1cf1d37129fbaaae58094f9fe16258bdc9df4ba6f167b0d4c307eb4ccd9b5669",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 264,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 18,
+    "n": 256,
+    "edges": 305,
+    "input": "264_fresh_5206_ogbn_arxiv_20k_large_4.txt",
+    "sha256": "3dbc4a0aa28be27b8dd2ab173be2b10c92abf22d5c5b6fe393b8b26ab60adbe7",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 264,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 2,
+    "w": 18,
+    "n": 256,
+    "edges": 305,
+    "input": "264_dose1.txt",
+    "sha256": "962e1b4b5c4342a9b6c8702949885642b9abe50e269b874fb18bc10da5ef789c",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 264,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 14,
+    "w": 18,
+    "n": 256,
+    "edges": 305,
+    "input": "264_dose5.txt",
+    "sha256": "c96180799f5eb5d2a83503214da41093cd326d8c8ca8be20e2fd1aa5278267c6",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 264,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 66,
+    "w": 18,
+    "n": 256,
+    "edges": 305,
+    "input": "264_dose20.txt",
+    "sha256": "f842df0854d58e72f1397598cab656e1c107c685d2d22aa103ea547ee1386b41",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 280,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 21,
+    "n": 256,
+    "edges": 423,
+    "input": "280_fresh_5207_ogbn_arxiv_20k_large_0.txt",
+    "sha256": "9c2af67cf340943db2043f1ef81aad2702c9b1bcdb5e76afec623705acd3b18f",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 280,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 2,
+    "w": 21,
+    "n": 256,
+    "edges": 423,
+    "input": "280_dose1.txt",
+    "sha256": "cb0cf7c7c9347f28733b3db3d9338ac29dd8dbdef663cb821dbfb7aef8666cec",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 280,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 21,
+    "w": 21,
+    "n": 256,
+    "edges": 423,
+    "input": "280_dose5.txt",
+    "sha256": "169e200e3717126181cd3f7839924f393cb6511266d058482b48701b78fdd5bf",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 280,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 91,
+    "w": 21,
+    "n": 256,
+    "edges": 423,
+    "input": "280_dose20.txt",
+    "sha256": "2a6d6d560fe3f1c010d19e5236c39822b79a91e644bc98335effd5b79c4a7cbd",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 281,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 22,
+    "n": 256,
+    "edges": 584,
+    "input": "281_fresh_5207_ogbn_arxiv_20k_large_1.txt",
+    "sha256": "2d6bc0aa5f923e4aff8813c20c6a26060ce560f8533d0e1865346b3d8669a619",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 281,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 5,
+    "w": 22,
+    "n": 256,
+    "edges": 584,
+    "input": "281_dose1.txt",
+    "sha256": "3c0a31ab1b8862983256019dcd33f632dd726b262821e275977d467c6fdf1238",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 281,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 37,
+    "w": 22,
+    "n": 256,
+    "edges": 584,
+    "input": "281_dose5.txt",
+    "sha256": "0f8a7f4b1caeb042ea3739b51e78715466758000aea0837ed40c12b28b7f2a9e",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 281,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 119,
+    "w": 22,
+    "n": 256,
+    "edges": 584,
+    "input": "281_dose20.txt",
+    "sha256": "1c0e4daee65966d8a3744cb5326b31a7fab8bd9b3f1adfdf7ea873f3f5b6b289",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 282,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 25,
+    "n": 256,
+    "edges": 368,
+    "input": "282_fresh_5207_ogbn_arxiv_20k_large_2.txt",
+    "sha256": "121c11f474a53c493cacf414aefbdffc82e9e92e1057cfb2baa635efce2e157a",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 282,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 1,
+    "w": 25,
+    "n": 256,
+    "edges": 368,
+    "input": "282_dose1.txt",
+    "sha256": "9772b8afa47c932bb09c13455b616882bd7be330c5db9a183312e691f388286d",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 282,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 23,
+    "w": 25,
+    "n": 256,
+    "edges": 368,
+    "input": "282_dose5.txt",
+    "sha256": "c15920896e44fa08e6c3c936a86d6ea99be5f6cd2add6890fb63205eaef1862b",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 282,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 73,
+    "w": 25,
+    "n": 256,
+    "edges": 368,
+    "input": "282_dose20.txt",
+    "sha256": "0e8ef4886c7b6f60fefaca1314ba310334beb28d946dc19b7b6aa77539697dde",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 283,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 26,
+    "n": 256,
+    "edges": 551,
+    "input": "283_fresh_5207_ogbn_arxiv_20k_large_3.txt",
+    "sha256": "088f2afd42eb1d1243b9bc6c7f77453db061126be507a3abb137f8f03884ea18",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 283,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 4,
+    "w": 26,
+    "n": 256,
+    "edges": 551,
+    "input": "283_dose1.txt",
+    "sha256": "6737c820f9b1bf60f031d2f2b67cf4e0d28bb0df119aef1c13e771ff9e0e9a15",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 283,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 32,
+    "w": 26,
+    "n": 256,
+    "edges": 551,
+    "input": "283_dose5.txt",
+    "sha256": "e877e3ae031f4dcd42e746c722f8df747d70cd94d4dfa8d8c67ab224b0f13d68",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 283,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 104,
+    "w": 26,
+    "n": 256,
+    "edges": 551,
+    "input": "283_dose20.txt",
+    "sha256": "85f82d105221386d9b0262301d0db778ef6c337de5a5fa31fd799e818f42a969",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 284,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 20,
+    "n": 256,
+    "edges": 329,
+    "input": "284_fresh_5207_ogbn_arxiv_20k_large_4.txt",
+    "sha256": "9aa795104df5bb1df2d4a865670ae57223b2dee0b609690447a2a3b0cbc1207d",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 284,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 1,
+    "w": 20,
+    "n": 256,
+    "edges": 329,
+    "input": "284_dose1.txt",
+    "sha256": "d255b68464a89499ca551fc8fea2d9caa308a2fa02d26f1e8b13a0ec45915c43",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 284,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 13,
+    "w": 20,
+    "n": 256,
+    "edges": 329,
+    "input": "284_dose5.txt",
+    "sha256": "b4201f1bfad5736af4411e6510c1d7a7b9a7e81b6a5bcf60b183ecacabd15561",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 284,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 56,
+    "w": 20,
+    "n": 256,
+    "edges": 329,
+    "input": "284_dose20.txt",
+    "sha256": "0ff79fdba79883e99a3d147bb849225765b47a55a987fdb7f78e91cf68ba9475",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 300,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 26,
+    "n": 256,
+    "edges": 641,
+    "input": "300_fresh_5208_ogbn_arxiv_20k_large_0.txt",
+    "sha256": "ac18fe41dd96ee48f6bd7e937d8340cd89e91b8ec11edcc128f0a14b326554e9",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 300,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 4,
+    "w": 26,
+    "n": 256,
+    "edges": 641,
+    "input": "300_dose1.txt",
+    "sha256": "08d6d300485900407a7b8261a94db24c4cd070d6d69777d344d4e9fbd0285346",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 300,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 27,
+    "w": 26,
+    "n": 256,
+    "edges": 641,
+    "input": "300_dose5.txt",
+    "sha256": "1aabc02acfb37c397837cb206e59ecf2126aabecfc03dd73d13401cebc13bce2",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 300,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 120,
+    "w": 26,
+    "n": 256,
+    "edges": 641,
+    "input": "300_dose20.txt",
+    "sha256": "bd54b992d353131664ba76bdd7d796c897d659bc53b381aed448a7742c753877",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 301,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 16,
+    "n": 256,
+    "edges": 447,
+    "input": "301_fresh_5208_ogbn_arxiv_20k_large_1.txt",
+    "sha256": "c8e745ab9ab4e014570525a6641b3a8232508f698939f8889595ec486e0a1ed9",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 301,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 6,
+    "w": 16,
+    "n": 256,
+    "edges": 447,
+    "input": "301_dose1.txt",
+    "sha256": "8e88a0442cec6f9dce23eead2f22cdf6bc0b124b80f2dd8b19a2f591653f35e7",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 301,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 17,
+    "w": 16,
+    "n": 256,
+    "edges": 447,
+    "input": "301_dose5.txt",
+    "sha256": "f83d6b2a9c60904a4f9bc9264b81e7344cb6c8fd1f2757b6691182aa76a014af",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 301,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 88,
+    "w": 16,
+    "n": 256,
+    "edges": 447,
+    "input": "301_dose20.txt",
+    "sha256": "0fd57ab6ba0fd6a599c9b6bfb25c0bc843c3d97e12e889672dea0c9c7cae8862",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 302,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 16,
+    "n": 256,
+    "edges": 353,
+    "input": "302_fresh_5208_ogbn_arxiv_20k_large_2.txt",
+    "sha256": "824d9e85e231f0eaff1ca11501eb003386fd0cc6bb405a74404af3ebc60f7d32",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 302,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 1,
+    "w": 16,
+    "n": 256,
+    "edges": 353,
+    "input": "302_dose1.txt",
+    "sha256": "6f49eb61bf66bbee5aa297de57f278cf4155fa8ee0d11a119fb5012c0808ccf0",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 302,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 15,
+    "w": 16,
+    "n": 256,
+    "edges": 353,
+    "input": "302_dose5.txt",
+    "sha256": "aae622a5f4ca1dcbcf03ebd1586c5e2e48eefa8367715ea5bb0d9c578a0b8fcd",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 302,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 73,
+    "w": 16,
+    "n": 256,
+    "edges": 353,
+    "input": "302_dose20.txt",
+    "sha256": "ec67ecfabc7bc704e5ab7f4308c543c52aea6baa1b871fb00bd7f61ff1ef6222",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 303,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 16,
+    "n": 256,
+    "edges": 324,
+    "input": "303_fresh_5208_ogbn_arxiv_20k_large_3.txt",
+    "sha256": "45820629812fe674c71e577ed7b4ef8fb832618462f3090a565b53dea5de30a3",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 303,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 4,
+    "w": 16,
+    "n": 256,
+    "edges": 324,
+    "input": "303_dose1.txt",
+    "sha256": "e359c137b9434fbc235f1971655b25f49cac286252449c4267b7441328c56bb8",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 303,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 25,
+    "w": 16,
+    "n": 256,
+    "edges": 324,
+    "input": "303_dose5.txt",
+    "sha256": "22ec6d46c72e1f87c53118248c1e78294b41c5f95fe9e1efd5d9d1a950ccd670",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 303,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 71,
+    "w": 16,
+    "n": 256,
+    "edges": 324,
+    "input": "303_dose20.txt",
+    "sha256": "a2272535a98e3ff327f188460bee45797d7ee1d10bb6391e2a3f6536894b4ef2",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 304,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 26,
+    "n": 256,
+    "edges": 382,
+    "input": "304_fresh_5208_ogbn_arxiv_20k_large_4.txt",
+    "sha256": "7e1c3af1d7f7b14b85d4eb9662a6dc547d3029cd9c3618eab4d1afbee06d4de6",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 304,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 3,
+    "w": 26,
+    "n": 256,
+    "edges": 382,
+    "input": "304_dose1.txt",
+    "sha256": "2c1d6e9a7ddda92e60cb3e091ab0af425dab028e5ae23f779d030be93bf599c4",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 304,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 15,
+    "w": 26,
+    "n": 256,
+    "edges": 382,
+    "input": "304_dose5.txt",
+    "sha256": "1b360afdb554e2f7063c3fa7c117ccae72a6353b2802432b88609a2b9784be1b",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 304,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 74,
+    "w": 26,
+    "n": 256,
+    "edges": 382,
+    "input": "304_dose20.txt",
+    "sha256": "f397369dbb320a2434d1dba524f2fa66d971a0c9a57cdd40aa068a902d6e16b5",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 320,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 22,
+    "n": 256,
+    "edges": 676,
+    "input": "320_fresh_5209_ogbn_arxiv_20k_large_0.txt",
+    "sha256": "7ea523161b08c72d59a818c84f25c6f36290c0172f79a6e08d7f847d043fa0be",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 320,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 8,
+    "w": 22,
+    "n": 256,
+    "edges": 676,
+    "input": "320_dose1.txt",
+    "sha256": "844a4b42d86a04c2af6e0ba2f3d28bf9fc2e9b7b9aab966e82e524e6d90e5a59",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 320,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 42,
+    "w": 22,
+    "n": 256,
+    "edges": 676,
+    "input": "320_dose5.txt",
+    "sha256": "9eedb0c2552c9f05488bd5bab9c510df0a0a6b5c5924c4879c7a2a8ce3d5f448",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 320,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 141,
+    "w": 22,
+    "n": 256,
+    "edges": 676,
+    "input": "320_dose20.txt",
+    "sha256": "b7afd53998265d0df4e76340caa892d18a156d5d2151a2df65aa3d7fe04604c0",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 321,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 21,
+    "n": 256,
+    "edges": 451,
+    "input": "321_fresh_5209_ogbn_arxiv_20k_large_1.txt",
+    "sha256": "c88a8cb38e8c560ea28706a4067bfba6bd57a214ec8b05a4196a7059dab272e8",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 321,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 5,
+    "w": 21,
+    "n": 256,
+    "edges": 451,
+    "input": "321_dose1.txt",
+    "sha256": "ce7ecae9bbc9511a63b82c30b7883876faf53a347f9277480f4ffa4551a6e3ce",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 321,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 21,
+    "w": 21,
+    "n": 256,
+    "edges": 451,
+    "input": "321_dose5.txt",
+    "sha256": "27f82319dbd0817a28f8bdfd8dc2dbf831fa2a5a00d8ddffe5e87da3f9d49a82",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 321,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 82,
+    "w": 21,
+    "n": 256,
+    "edges": 451,
+    "input": "321_dose20.txt",
+    "sha256": "336b586d2fa3c1ff5eab475e7079d45d054e35b165887a12d9be5bfad7abd5d3",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 322,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 18,
+    "n": 256,
+    "edges": 594,
+    "input": "322_fresh_5209_ogbn_arxiv_20k_large_2.txt",
+    "sha256": "b79b12a109300dcbba46d68ad154c4446a0d234b23854c2e3eab24f62b220851",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 322,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 4,
+    "w": 18,
+    "n": 256,
+    "edges": 594,
+    "input": "322_dose1.txt",
+    "sha256": "894e444886e0429cc7a2d5892bc798dd39cbf926f2e28e0eddc8725d96027982",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 322,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 23,
+    "w": 18,
+    "n": 256,
+    "edges": 594,
+    "input": "322_dose5.txt",
+    "sha256": "96789e0a64ac460bb5df8637905187c1462ecca2d0312b6ff301a2a5c737ccf0",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 322,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 103,
+    "w": 18,
+    "n": 256,
+    "edges": 594,
+    "input": "322_dose20.txt",
+    "sha256": "bb0a9ae48e528f2a141d589cb07732c49de833a6831c2b11459551caadf42992",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct",
+      "enumeration"
+    ]
+  },
+  {
+    "case": 323,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 22,
+    "n": 256,
+    "edges": 434,
+    "input": "323_fresh_5209_ogbn_arxiv_20k_large_3.txt",
+    "sha256": "d6d48526ca227cdd053f1d0d02a525c5b1334b2adb27fe34da16efe3cb6ae293",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 323,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 5,
+    "w": 22,
+    "n": 256,
+    "edges": 434,
+    "input": "323_dose1.txt",
+    "sha256": "ceaa1a582e3f00db5e810de58b91f53c755271e022ccf76252b09a578f73b53b",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 323,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 21,
+    "w": 22,
+    "n": 256,
+    "edges": 434,
+    "input": "323_dose5.txt",
+    "sha256": "4238d2bbefeb0da55322b1009471b96fbf69d76bb552aef04113a7a9558decc3",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 323,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 92,
+    "w": 22,
+    "n": 256,
+    "edges": 434,
+    "input": "323_dose20.txt",
+    "sha256": "b970ce3e275affbd13f0b7c9993be4f0ca95724489e5a0e56853a79444edc57a",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 324,
+    "group": "Larger OGB",
+    "dose": 0,
+    "marked": 0,
+    "w": 21,
+    "n": 256,
+    "edges": 719,
+    "input": "324_fresh_5209_ogbn_arxiv_20k_large_4.txt",
+    "sha256": "138b5766842d159a0278ff77b3dcdd47a9486d5868b754ae6e282e8071dd29ed",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 324,
+    "group": "Larger OGB",
+    "dose": 1,
+    "marked": 7,
+    "w": 21,
+    "n": 256,
+    "edges": 719,
+    "input": "324_dose1.txt",
+    "sha256": "51e5003b313af2f28096c5e0607873873f50afbed84aab8b9c4ffcdaf2350a07",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 324,
+    "group": "Larger OGB",
+    "dose": 5,
+    "marked": 37,
+    "w": 21,
+    "n": 256,
+    "edges": 719,
+    "input": "324_dose5.txt",
+    "sha256": "e78b4dcdd03c8cfcb1dc10943d5473234079c608f0d69c68179c29bb8cc3e446",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  },
+  {
+    "case": 324,
+    "group": "Larger OGB",
+    "dose": 20,
+    "marked": 137,
+    "w": 21,
+    "n": 256,
+    "edges": 719,
+    "input": "324_dose20.txt",
+    "sha256": "00cb3e80a1fc0c3f7bf24e32066cd0bc9f4ad8964d3bd665f9f94f36d390a7c2",
+    "methods": [
+      "sparse",
+      "recompute",
+      "component",
+      "direct"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+\begin{table}[htbp]
+\centering
+\caption{Paired kernel speedup against the full eligible exact-control envelope at each certain-edge marking probability. Each cell gives the median of 25 within-case ratios (strict wins/25). Each ratio uses the fastest control median divided by the sparse dispatcher median on the same matrix, with three timing rounds per method. Enumeration is eligible on all small cases and on seven larger OGB cases.}
+\label{tab:endpoint-envelope}
+\small
+\begin{tabular}{lrrrr}
+\toprule
+Stratum & $p=0$ & $p=0.01$ & $p=0.05$ & $p=0.20$ \\
+\midrule
+Small Cora & 0.6619 (6/25) & 0.6609 (4/25) & 0.7572 (2/25) & 0.7555 (0/25) \\
+Small OGB & 1.2379 (20/25) & 1.1340 (14/25) & 0.9985 (4/25) & 0.9989 (3/25) \\
+Larger OGB & 2.8102 (25/25) & 0.9997 (4/25) & 0.9998 (7/25) & 0.9996 (6/25) \\
+\bottomrule
+\end{tabular}
+\end{table}

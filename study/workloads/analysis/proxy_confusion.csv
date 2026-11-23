@@ -1,0 +1,15 @@
+campaign,stratum,cases,matched_sparse_win,matched_sparse_loss,matched_sparse_tie,matched_tie_win,matched_tie_loss,matched_tie_tie,matched_control_win,matched_control_loss,matched_control_tie,matched_binary_correct,full_sparse_win,full_sparse_loss,full_sparse_tie,full_tie_win,full_tie_loss,full_tie_tie,full_control_win,full_control_loss,full_control_tie,full_binary_correct
+Replay,Cora small,15,4,5,0,5,1,0,0,0,0,5,3,6,0,1,5,0,0,0,0,8
+Replay,OGB small,15,12,1,0,2,0,0,0,0,0,12,10,3,0,2,0,0,0,0,0,10
+Replay,Synthetic,36,21,3,0,0,12,0,0,0,0,33,21,3,0,0,12,0,0,0,0,33
+Replay,Cora larger,15,14,1,0,0,0,0,0,0,0,14,14,1,0,0,0,0,0,0,0,14
+Replay,OGB larger,15,15,0,0,0,0,0,0,0,0,15,15,0,0,0,0,0,0,0,0,15
+Sweep,scaling,18,18,0,0,0,0,0,0,0,0,18,18,0,0,0,0,0,0,0,0,18
+Sweep,degree,21,18,0,0,0,3,0,0,0,0,21,18,0,0,0,3,0,0,0,0,21
+Sweep,components,15,15,0,0,0,0,0,0,0,0,15,15,0,0,0,0,0,0,0,0,15
+Sweep,probability,75,75,0,0,0,0,0,0,0,0,75,75,0,0,0,0,0,0,0,0,75
+Fresh,Cora small,25,8,7,0,6,4,0,0,0,0,12,4,11,0,2,8,0,0,0,0,12
+Fresh,OGB small,25,21,0,0,4,0,0,0,0,0,21,18,3,0,2,2,0,0,0,0,20
+Fresh,Cora larger,25,21,3,0,0,1,0,0,0,0,22,21,3,0,0,1,0,0,0,0,22
+Fresh,OGB larger,25,25,0,0,0,0,0,0,0,0,25,25,0,0,0,0,0,0,0,0,25
+All,All,325,267,20,0,17,21,0,0,0,0,288,257,30,0,7,31,0,0,0,0,288

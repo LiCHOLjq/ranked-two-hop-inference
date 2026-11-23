@@ -1,0 +1,10 @@
+{
+  "start_utc": "2026-11-16T06:32:05Z",
+  "affinity": [
+    10
+  ],
+  "python": "3.12.3",
+  "numpy": "2.5.4",
+  "platform": "Linux-6.17.0-1033-oem-x86_64-with-glibc2.39",
+  "end_utc": "2026-11-16T06:34:41Z"
+}

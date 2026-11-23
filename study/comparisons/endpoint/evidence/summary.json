@@ -1,0 +1,210 @@
+{
+  "timed_invocations": 4284,
+  "case_rate_pairs": 300,
+  "method_counts": {
+    "sparse": 900,
+    "direct": 900,
+    "recompute": 900,
+    "enumeration": 684,
+    "component": 900
+  },
+  "max_abs_error": "1.44048541E-17",
+  "strata": [
+    {
+      "group": "Small Cora",
+      "dose": 0,
+      "n": 25,
+      "triggered": 0,
+      "eligible_enumeration": 25,
+      "median_speedup": 0.6619206075365678,
+      "wins": 6,
+      "minimum": 0.25983190679003415,
+      "maximum": 1.1755820097852892,
+      "control_counts": {
+        "component": 7,
+        "direct": 6,
+        "enumeration": 12
+      }
+    },
+    {
+      "group": "Small Cora",
+      "dose": 1,
+      "n": 25,
+      "triggered": 5,
+      "eligible_enumeration": 25,
+      "median_speedup": 0.6609410380103733,
+      "wins": 4,
+      "minimum": 0.25607784854621757,
+      "maximum": 1.1665067687707356,
+      "control_counts": {
+        "component": 5,
+        "direct": 7,
+        "enumeration": 13
+      }
+    },
+    {
+      "group": "Small Cora",
+      "dose": 5,
+      "n": 25,
+      "triggered": 14,
+      "eligible_enumeration": 25,
+      "median_speedup": 0.757245647134919,
+      "wins": 2,
+      "minimum": 0.3239011543533168,
+      "maximum": 1.1755544028877172,
+      "control_counts": {
+        "recompute": 2,
+        "direct": 6,
+        "enumeration": 13,
+        "component": 4
+      }
+    },
+    {
+      "group": "Small Cora",
+      "dose": 20,
+      "n": 25,
+      "triggered": 21,
+      "eligible_enumeration": 25,
+      "median_speedup": 0.7555281784687912,
+      "wins": 0,
+      "minimum": 0.32329811633071565,
+      "maximum": 0.9984525095629398,
+      "control_counts": {
+        "component": 3,
+        "direct": 6,
+        "enumeration": 14,
+        "recompute": 2
+      }
+    },
+    {
+      "group": "Small OGB",
+      "dose": 0,
+      "n": 25,
+      "triggered": 0,
+      "eligible_enumeration": 25,
+      "median_speedup": 1.2378615123215013,
+      "wins": 20,
+      "minimum": 0.3214685730224613,
+      "maximum": 1.5374131465127778,
+      "control_counts": {
+        "enumeration": 6,
+        "component": 2,
+        "recompute": 17
+      }
+    },
+    {
+      "group": "Small OGB",
+      "dose": 1,
+      "n": 25,
+      "triggered": 7,
+      "eligible_enumeration": 25,
+      "median_speedup": 1.1339517369592367,
+      "wins": 14,
+      "minimum": 0.3312838699468379,
+      "maximum": 1.458194008610738,
+      "control_counts": {
+        "enumeration": 6,
+        "component": 4,
+        "direct": 2,
+        "recompute": 13
+      }
+    },
+    {
+      "group": "Small OGB",
+      "dose": 5,
+      "n": 25,
+      "triggered": 19,
+      "eligible_enumeration": 25,
+      "median_speedup": 0.9985465014712662,
+      "wins": 4,
+      "minimum": 0.35793475448514817,
+      "maximum": 1.456624786708305,
+      "control_counts": {
+        "enumeration": 6,
+        "component": 6,
+        "recompute": 7,
+        "direct": 6
+      }
+    },
+    {
+      "group": "Small OGB",
+      "dose": 20,
+      "n": 25,
+      "triggered": 25,
+      "eligible_enumeration": 25,
+      "median_speedup": 0.9989110704365808,
+      "wins": 3,
+      "minimum": 0.37338262058688815,
+      "maximum": 1.000617054514992,
+      "control_counts": {
+        "enumeration": 6,
+        "recompute": 5,
+        "component": 4,
+        "direct": 10
+      }
+    },
+    {
+      "group": "Larger OGB",
+      "dose": 0,
+      "n": 25,
+      "triggered": 0,
+      "eligible_enumeration": 7,
+      "median_speedup": 2.8101545317369907,
+      "wins": 25,
+      "minimum": 2.261932874192017,
+      "maximum": 9.166202512715927,
+      "control_counts": {
+        "recompute": 21,
+        "component": 4
+      }
+    },
+    {
+      "group": "Larger OGB",
+      "dose": 1,
+      "n": 25,
+      "triggered": 25,
+      "eligible_enumeration": 7,
+      "median_speedup": 0.9996974052974876,
+      "wins": 4,
+      "minimum": 0.9816589379036418,
+      "maximum": 1.000361308063006,
+      "control_counts": {
+        "recompute": 10,
+        "direct": 7,
+        "component": 8
+      }
+    },
+    {
+      "group": "Larger OGB",
+      "dose": 5,
+      "n": 25,
+      "triggered": 25,
+      "eligible_enumeration": 7,
+      "median_speedup": 0.9998364147017871,
+      "wins": 7,
+      "minimum": 0.9540828400751981,
+      "maximum": 1.0003420204333986,
+      "control_counts": {
+        "component": 13,
+        "direct": 5,
+        "recompute": 7
+      }
+    },
+    {
+      "group": "Larger OGB",
+      "dose": 20,
+      "n": 25,
+      "triggered": 25,
+      "eligible_enumeration": 7,
+      "median_speedup": 0.9996440709629734,
+      "wins": 6,
+      "minimum": 0.9702500902220297,
+      "maximum": 1.0011389483589106,
+      "control_counts": {
+        "recompute": 7,
+        "direct": 9,
+        "component": 9
+      }
+    }
+  ]
+}

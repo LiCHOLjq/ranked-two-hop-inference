@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this artifact when using its implementation, workloads, or numerical results."
+title: "Pair-Local Exact Top-Two Inference for Uncertain Two-Hop Graph Filters"
+type: software
+authors:
+  - family-names: Li
+    given-names: Jiaquan
+  - family-names: Li
+    given-names: Ji
+  - family-names: Zhang
+    given-names: Yijie
+  - family-names: Li
+    given-names: Guanning
+  - family-names: Li
+    given-names: Junxiao
+  - family-names: Li
+    given-names: Chuanwen
+repository-code: "https://github.com/LiCHOLjq/ranked-two-hop-inference"
